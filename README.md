@@ -1,19 +1,23 @@
 # goroncemamuskiwtwojejokolicy
 
 Projekt: 
-1. [x]układ zachowany w orientacji pionowej i poziomej
-2. []opcja na tablet oraz na telefon
-3. []toolbar górny z opcją udostępniania oraz cofania 
-4. [x]wysuwane menu boczne z możliwością wyboru fragmentu
-5. []slidowanie w bok umożliwia zmianę aktywności
-6. []zapamiętanie stanu zmiennej przy obracaniu ekranu, wyłączeniu oraz minimalizacji aplikacji
-7. [x]zaciąganie stringów oraz drawabli z resourców
-8. [x]wykorzystanie buttona, text view (z odnośnikiem), text edit, list view, image view (z odnośnikiem), checkboxów 
-9. []wyświetlanie powiadomień
-10. []wykorzystanie wag elementów układu 
- 
+```[tasklist]
+- [x]układ zachowany w orientacji pionowej i poziomej
+- [ ] opcja na tablet oraz na telefon
+- [ ] toolbar górny z opcją udostępniania oraz cofania 
+- [x] wysuwane menu boczne z możliwością wyboru fragmentu
+- [ ] slidowanie w bok umożliwia zmianę aktywności
+- [ ] zapamiętanie stanu zmiennej przy obracaniu ekranu, wyłączeniu oraz minimalizacji aplikacji
+- [x] zaciąganie stringów oraz drawabli z resourców
+- [x] wykorzystanie buttona, text view (z odnośnikiem), text edit, list view, image view (z odnośnikiem), checkboxów 
+- [ ] wyświetlanie powiadomień
+- [ ] wykorzystanie wag elementów układu 
+ ```
+
+```[tasklist]
 Dodatkowo np.:
-11. implementacja timera
-12. imlementacja GPS
-13. baza danych
-14. reklamy
+- [ ] implementacja timera
+- [ ] imlementacja GPS
+- [ ] baza danych
+- [ ]reklamy
+```
