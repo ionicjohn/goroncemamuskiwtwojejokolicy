@@ -1,7 +1,7 @@
 # goroncemamuskiwtwojejokolicy
 
 Projekt: 
-```[tasklist]
+[tasklist]
 - [x]układ zachowany w orientacji pionowej i poziomej
 - [ ] opcja na tablet oraz na telefon
 - [ ] toolbar górny z opcją udostępniania oraz cofania 
@@ -12,12 +12,12 @@ Projekt:
 - [x] wykorzystanie buttona, text view (z odnośnikiem), text edit, list view, image view (z odnośnikiem), checkboxów 
 - [ ] wyświetlanie powiadomień
 - [ ] wykorzystanie wag elementów układu 
- ```
 
-```[tasklist]
+
+[tasklist]
 Dodatkowo np.:
 - [ ] implementacja timera
 - [ ] imlementacja GPS
 - [ ] baza danych
 - [ ]reklamy
-```
+
